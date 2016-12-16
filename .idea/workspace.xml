@@ -1,7 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6d3d177-1cf4-47d9-92b0-20fe57c8e6aa" name="Default" comment="" />
+    <list default="true" id="d6d3d177-1cf4-47d9-92b0-20fe57c8e6aa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/AxureHandwriting-Bold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/AxureHandwriting-BoldItalic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/AxureHandwriting-Italic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/AxureHandwriting.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Candara.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Candarab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Candarai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Candaraz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gabriola.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/KhmerUI.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/KhmerUIb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/LaoUI.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/LaoUIb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Shonar.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Shonarb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Vani.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Vanib.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ahronbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/andlso.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/angsa.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/angsab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/angsai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/angsau.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/angsaub.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/angsaui.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/angsauz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/angsaz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/aparaj.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/aparajb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/aparajbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/aparaji.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/arabtype.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/arial.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/arialbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/arialbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ariali.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ariblk.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/batang.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/browa.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/browab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/browai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/browau.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/browaub.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/browaui.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/browauz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/browaz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/calibri.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/calibrib.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/calibrii.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/calibril.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/calibrili.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/calibriz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cambria.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cambriab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cambriai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cambriaz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/comic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/comicbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/consola.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/consolab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/consolai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/consolaz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/constan.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/constanb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/constani.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/constanz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/corbel.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/corbelb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/corbeli.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/corbelz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cordia.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cordiab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cordiai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cordiau.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cordiaub.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cordiaui.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cordiauz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cordiaz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/cour.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/courbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/courbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/coure.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/couri.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/daunpenh.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/david.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/davidbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/dokchamp.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ebrima.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ebrimabd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/estre.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/euphemia.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/framd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/framdit.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/frank.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/gautami.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/gautamib.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/georgia.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/georgiab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/georgiai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/georgiaz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/gisha.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/gishabd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/gulim.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/himalaya.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/impact.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/iskpota.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/iskpotab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kaiu.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kalinga.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kalingab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kartika.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kartikab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kokila.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kokilab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kokilabi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/kokilai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/l_10646.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/latha.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lathab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/leelawad.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/leelawdb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lucon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lvnm.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lvnmbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/majalla.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/majallab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/malgun.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/malgunbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/mangal.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/mangalb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/meiryo.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/meiryob.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/micross.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/mingliu.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/mingliub.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/modern.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/monbaiti.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/moolbor.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/mriam.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/mriamc.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/msgothic.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/msjh.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/msjhbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/msmincho.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/msuighur.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/msyh.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/msyhbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/msyi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/mtextra.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/mvboli.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/nrkis.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ntailu.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ntailub.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/nyala.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/pala.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/palab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/palabi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/palai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/phagspa.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/phagspab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/plantc.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/raavi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/raavib.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/rod.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/roman.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/script.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoepr.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoeprb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoesc.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoescb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoeui.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoeuib.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoeuii.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoeuil.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/segoeuiz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/seguisb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/seguisym.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/serife.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/shruti.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/shrutib.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/simfang.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/simhei.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/simkai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/simpbdo.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/simpfxo.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/simpo.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/simsun.ttc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/simsunb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/smalle.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/sserife.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/svgafix.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/svgasys.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/sylfaen.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/symbol.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/tahoma.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/tahomabd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/taile.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/taileb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/times.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/timesbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/timesbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/timesi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/tradbdo.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/trado.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/trebuc.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/trebucbd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/trebucbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/trebucit.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/tunga.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/tungab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcdb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcdbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcdi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcdl.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upceb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcebi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcei.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcel.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcfb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcfbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcfi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcfl.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcib.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcibi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcii.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcil.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcjb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcjbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcji.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcjl.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upckb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upckbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcki.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upckl.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upclb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upclbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcli.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/upcll.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/utsaah.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/utsaahb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/utsaahbi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/utsaahi.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/verdana.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/verdanab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/verdanai.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/verdanaz.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/vga936.fon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/vijaya.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/vijayab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/vrinda.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/vrindab.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/webdings.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/wingding.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/Koala.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/Lighthouse.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="flaskr.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -14,6 +273,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/flaskr$flaskr.coverage" NAME="flaskr Coverage Results" MODIFIED="1481701271777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flaskr$image.coverage" NAME="image Coverage Results" MODIFIED="1481793905382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -38,11 +298,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="flaskr.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flaskr.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flaskr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
                 <marker date="1481701289021" expanded="true" signature="873:921" ph="select title... entries" />
@@ -53,41 +313,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <file leaf-file-name="image.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="287">
+              <caret line="152" column="16" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="16" />
+              <folding>
+                <element signature="e#22#92#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show_entries.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/show_entries.html">
+      <file leaf-file-name="Image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/PIL/Image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+            <state relative-caret-position="442">
+              <caret line="1819" column="0" selection-start-line="1819" selection-start-column="0" selection-end-line="1819" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,11 +340,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -115,6 +360,7 @@
         <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/static/style.css" />
         <option value="$PROJECT_DIR$/flaskr.py" />
+        <option value="$PROJECT_DIR$/src/image.py" />
       </list>
     </option>
   </component>
@@ -125,9 +371,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="-2" />
+    <option name="y" value="34" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -155,8 +401,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,6 +421,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,12 +430,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\apptest\Appium\node.exe" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
-    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Python.flaskr">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pc-y\flaskr\fonts" />
+      <recent name="D:\pc-y\flaskr\image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.image">
     <configuration default="false" name="flaskr" type="PythonConfigurationType" factoryName="Python" singleton="true" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,6 +456,24 @@
       <module name="flaskr" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flaskr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -436,12 +706,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.flaskr" />
+      <item index="1" class="java.lang.String" itemvalue="Python.image" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.flaskr" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.image" />
+        <item index="1" class="java.lang.String" itemvalue="Python.flaskr" />
       </list>
     </recent_temporary>
   </component>
@@ -459,20 +731,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-2" y="34" width="1932" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1098081" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11111111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5135428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27380952" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27193934" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -518,6 +790,31 @@
           <line>55</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/image.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/image.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/image.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/image.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/image.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -526,16 +823,60 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1481701289021" expanded="true" signature="873:921" ph="select title... entries" />
+            <marker date="1481701289021" expanded="true" signature="879:921" ph="select title... entries" />
+            <marker date="1481701289021" expanded="true" signature="1194:1239" ph="insert into entries... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/show_entries.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/schema.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,19 +986,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
             <marker date="1481701289021" expanded="true" signature="873:921" ph="select title... entries" />
             <marker date="1481701289021" expanded="true" signature="879:921" ph="select title... entries" />
             <marker date="1481701289021" expanded="true" signature="1194:1239" ph="insert into entries... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/PIL/ImageFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="141" column="24" selection-start-line="141" selection-start-column="24" selection-end-line="141" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/PIL/_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thumbnail.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="1819" column="0" selection-start-line="1819" selection-start-column="0" selection-end-line="1819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/PIL/ImageDraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="219" column="33" selection-start-line="219" selection-start-column="29" selection-end-line="219" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draw.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resize_image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="152" column="16" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="16" />
+          <folding>
+            <element signature="e#22#92#0" expanded="true" />
           </folding>
         </state>
       </provider>
