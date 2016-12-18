@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-from PIL import Image, ImageFilter, ImageDraw, ImageEnhance, ImageFont
+from PIL import Image, ImageFilter, ImageDraw, ImageEnhance, ImageFont, ImageMath
 import os
 
 path = os.path.dirname(__file__)
@@ -154,3 +154,15 @@ def image_edges(image):
     return image
 # image = image_edges(image1)
 # image_save(image, 'edges.jpg')
+
+#图片旋转
+def image_rotate(image, theta):
+    image = image.rotate(theta)
+    image.show()
+    return image
+
+#图片翻转
+def image_transpose(image):
+    image = image.transpose(Image.ROTATE_90)
+    image.show()
+# image_transpose(image1)
