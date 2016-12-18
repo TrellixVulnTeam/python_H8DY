@@ -53,7 +53,7 @@ def image_filter(image):
 #图片写字
 def image_draw(image, p1, p2, text, font):
     draw = ImageDraw.Draw(image)
-    draw.text((p1, p2), text, font=font)
+    draw.text((p1, p2), text, (255, 0, 0), font=font)
     image.show()
     return image
 
@@ -61,7 +61,18 @@ def image_draw(image, p1, p2, text, font):
 # font = ImageFont.truetype(path +'/../fonts/simsun.ttc', 24)
 # image = image_draw(image2, w - 150, 30, u'你好', font)
 # image_save(image, 'draw.jpg')
+#图片水印
+def image_alpha(image, text):
+    img_ed = Image.new('RGBA', image.size, (0, 0, 0, 0))
+    img_draw = ImageDraw.Draw(img_ed)
+    w, h = image_size(img_ed)
+    font = ImageFont.truetype(path + '/../fonts/simsun.ttc', 24)
+    img_draw.text((w-150, h-30), text, font=font, fill=(255,255,255,255))
+    out = Image.alpha_composite(image, img_ed)
+    out.show()
+    image_save(out, 'shuiyin.jpg')
 
+image_alpha(image1.convert('RGBA'), u'张鹏程')
 #图片拼接
 def image_resize(image1, image2):
     images = (image1, image2)
